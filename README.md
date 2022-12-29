@@ -13,3 +13,5 @@ A full deployment of the MnemoSys system integrated with a decentralized ledger 
 All code was witten and developed by myself under supervision of the NSF Blockchain REU program at Boise State Univeristy.
 
 danielrouhana@pm.me
+
+Copyright IEEE
